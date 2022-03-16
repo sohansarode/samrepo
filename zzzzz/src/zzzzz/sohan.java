@@ -7,27 +7,9 @@ public class sohan {
     System.out.println("sohan");
     System.out.println("sohan");
     System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
+  
     
-//	sohan hii how are doing??
-//	sohan hii how are doing??
-//	sohan hii how are doing??
-//	sohan hii how are doing??
-	
-//	sohan hii how are doing?
 
-//	sohan hii how are doing??
-//	sohan hii how are doing??
-//	sohan hii how are doing??
-//	sohan hii how are doing??
-	
-//	sohan hii how are doing?
 
     
 	}
