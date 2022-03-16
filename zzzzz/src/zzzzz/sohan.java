@@ -6,10 +6,7 @@ public class sohan {
 		// TODO Auto-generated method stub
     System.out.println("sohan");
     System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
-    System.out.println("sohan");
+    
 	}
 
 }
